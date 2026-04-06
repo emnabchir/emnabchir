@@ -1,16 +1,17 @@
-## Hi there 👋
+# 🎓 Student Profile – ISG Tunis
 
-<!--
-**emnabchir/emnabchir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm **Emna Bchir**, a Business Computing (Business Information Systems) student at the Higher Institute of Management of Tunis (ISG Tunis).
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I am passionate about technology, problem-solving, and building useful digital solutions. I am currently developing my skills in both programming and information systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills & Projects
+- **Web Development:** Working with PHP, MySQL, HTML, and CSS to build dynamic web applications  
+- **Problem Solving:** Learning algorithms, logic, and system design  
+- **Academic Project:** Developing **"Uber-Cueillette"**, a platform that connects farmers with seasonal workers  
+
+## 🎯 Goals
+I am applying for the GitHub Student Developer Pack to access professional tools, enhance my technical skills, and build real-world projects.
+
+---
+✨ Always learning, always building.
